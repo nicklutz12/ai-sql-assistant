@@ -1,0 +1,5 @@
+your-project/
+    app.py
+    sample_database.db
+    .env
+    .streamlit/
